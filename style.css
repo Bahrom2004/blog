@@ -520,7 +520,7 @@ section .title::after {
 }
 
 .skills-content .left .mysql::before {
-    width: 50%;
+    width: 60%;
 }
 
 .skills-content .left .mongodb::before {
@@ -528,14 +528,14 @@ section .title::after {
 }
 
 .skills-content .left .psql::before {
-    width: 50%;
+    width: 90%;
 }
 
 
 /*right*/
 
 .skills-content .right .sql::before {
-    width: 80%;
+    width: 90%;
 }
 
 .skills-content .right .ssis::before {
@@ -547,7 +547,7 @@ section .title::after {
 }
 
 .skills-content .right .msoffice::before {
-    width: 50%;
+    width: 70%;
 }
 
 .skills-content .right .powerbi::before {
@@ -555,11 +555,11 @@ section .title::after {
 }
 
 .skills-content .right .tableau::before {
-    width: 60%;
+    width: 70%;
 }
 
 .skills-content .right .azure::before {
-    width: 30%;
+    width: 80%;
 }
 
 .skills img {
